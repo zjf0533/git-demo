@@ -2,4 +2,4 @@ hello git!say by zhangsan.
 hello git!say by lisi.
 hello git!do by zhaowu.
 hello git!
-hello git!
+hello git!--hot-fix test!
